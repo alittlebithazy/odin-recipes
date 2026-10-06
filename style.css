@@ -20,9 +20,17 @@
 }
 
 .one {
-    background-color: coral;
-    color: brown;
+    background-color: brown;
+    color: black;
     border: solid black;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+}
+
+.two {
+    background-color: coral;
+    color: black;
+    border: solid brown;
     border-right-width: 5px;
     border-bottom-width: 5px;
 }
