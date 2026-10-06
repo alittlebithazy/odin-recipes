@@ -34,3 +34,11 @@
     border-right-width: 5px;
     border-bottom-width: 5px;
 }
+
+.three {
+    background-color: green;
+    color: black;
+    border: solid darkgreen;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+}
