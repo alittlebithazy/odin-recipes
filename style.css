@@ -1,0 +1,8 @@
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orange;
+    box-sizing: border-box;
+    width: 500px;
+    text-align: center;
+    margin-left: 200px;
+}
